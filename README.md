@@ -12,7 +12,8 @@ JobHub is an open sourced, job search tool. The app uses API's to search multipl
 
 ## App In Action
 
-[Screen shot of the app]
+[Screen shot of the app]![Screen Shot 2021-04-13 at 9 06 58 PM](https://user-images.githubusercontent.com/71056915/114639680-71064680-9c9c-11eb-99f3-937a6b830b92.png)
+
 
 ## Live Link
 
